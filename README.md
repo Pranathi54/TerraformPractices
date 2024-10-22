@@ -1,0 +1,2 @@
+# TerraformPractices
+to practice terraform
